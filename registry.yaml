@@ -1,0 +1,13 @@
+# ClaudeTeach Module Pack Registry
+# Add your pack by submitting a PR with a YAML file in packs/
+
+packs: []
+
+# To list your pack, create packs/<your-pack-name>.yaml with:
+#   name: your-pack-name
+#   repo: https://github.com/you/your-pack
+#   author: Your Name
+#   description: What your pack teaches
+#   tags: [topic1, topic2]
+#   modules: 3
+#   difficulty: [beginner, intermediate]
