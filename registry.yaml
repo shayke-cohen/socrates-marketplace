@@ -1,7 +1,14 @@
 # ClaudeTeach Module Pack Registry
 # Add your pack by submitting a PR with a YAML file in packs/
 
-packs: []
+packs:
+  - name: community-essentials
+    repo: https://github.com/shayke-cohen/claudeteach-community-pack
+    author: ClaudeTeach Community
+    description: "AI tools, developer skills, and life skills — 5 modules from Claude Code to pizza making."
+    tags: [claude-code, mcp, skills, cursor, pizza, notebooklm, ai, life-skills]
+    modules: 5
+    difficulty: [beginner, intermediate]
 
 # To list your pack, create packs/<your-pack-name>.yaml with:
 #   name: your-pack-name
