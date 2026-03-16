@@ -1,10 +1,10 @@
-# ClaudeTeach Module Pack Registry
+# Socrates Module Pack Registry
 # Add your pack by submitting a PR with a YAML file in packs/
 
 packs:
   - name: community-essentials
     repo: https://github.com/shayke-cohen/claudeteach-community-pack
-    author: ClaudeTeach Community
+    author: Socrates Community
     description: "AI tools, developer skills, and life skills — 5 modules from Claude Code to pizza making."
     tags: [claude-code, mcp, skills, cursor, pizza, notebooklm, ai, life-skills]
     modules: 5
